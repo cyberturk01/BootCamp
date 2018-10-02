@@ -1,6 +1,9 @@
-initial text
-Adding more Content
-Adding more Content from test Branch
+git --version
+git add demo.txt
+git commit -m "Demo.txt last"
+git remote add origin https://github.com/cyberturk01/BootCamp.git
+git branch
+git checkout master / (test)
+git push -u origin master / (test)
 
 
-hello from here...
